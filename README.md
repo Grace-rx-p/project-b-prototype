@@ -1,2 +1,2 @@
-# project b prototype
+# project-b-protype
 
